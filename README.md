@@ -1,0 +1,11 @@
+Problem Statement
+As United Airlines continues its journey to become the best airline in the history of aviation, it is crucial to provide world-class customer service, for which one of the key areas of focus is our call center operations. Call centers play a critical role in ensuring customer issues are resolved quickly and efficiently, but we face challenges in improving metrics such as Average Handle Time (AHT) and Average Speed to Answer (AST).
+
+Your task is to optimize these key call center metrics, helping reduce resolution times and providing faster, more efficient service to our customers. You are required to analyze our existing call center data to identify inefficiencies, determine the drivers of long AHT and AST, and suggest strategies to enhance customer satisfaction, reduce escalations, and improve overall operational efficiency.
+
+Background
+In today’s competitive airline industry, providing efficient and reliable customer service is crucial for customer retention and loyalty. Our call center, which handles customer inquiries, complaints, and service requests, is an essential touchpoint for many of our passengers. However, the growing demand and complexity of services have made it increasingly important to optimize the operations of this critical channel.
+
+Average Handle Time (AHT) and Average Speed to Answer (AST) are essential metrics that significantly impact call center performance by shaping customer satisfaction and operational efficiency. AHT measures the total time agents spend on each call, from answering to disconnecting, and provides insights into where processes can be streamlined. Reducing AHT without sacrificing quality allows agents to handle more calls with existing resources, improving service levels and controlling costs. Meanwhile, AST tracks how quickly customers reach assistance through self-service tools like IVR systems. A lower AST minimizes customer wait times, enhancing their experience and reducing call abandonment, ultimately supporting a more efficient and customer-friendly operation.
+
+United Airlines uses a mix of human agents and IVR systems to address customer needs. While IVR systems help automate simple tasks and reduce call volume for human agents, there’s an opportunity to streamline this process and better allocate resources between self-service and agent-based resolutions.
